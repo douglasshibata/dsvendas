@@ -3,22 +3,22 @@
 Aplicativo Desenvolvido na Semana Spring React da Dev Superior
 
 Frontend desenvolvido em ReactJS com Typescript
+
 Comando utilizado para criar o projeto 
 ```bash
 npx create-react-app frontend --template typescript
 ```
 
 Para rodar o frontend
-abrir o diretório
+* Abrir o diretório
 ```bash
 cd frontend
 ```
-
-instalar as dependências
+* Instalar as dependências
 ```bash
 npm i
 ```
-Rodar a aplicação
+* Rodar a aplicação
 ```bash
 npm start
 ```
